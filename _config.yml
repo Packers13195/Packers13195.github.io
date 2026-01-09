@@ -1,4 +1,4 @@
 title: Austin Donaubauer ePortfolio
 description: ePortfolio
-theme: pages-themes/architect@v0.2.0
+theme: architect
 plugins: - jekyll-remote-theme
