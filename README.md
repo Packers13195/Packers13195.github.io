@@ -10,29 +10,17 @@ In June 2023, I finally decided to take advantage of the tuition assistance offe
 The capstone class is the end of the Bachelor's of Science - Computer Science degree program. 
 The importance of this class is to become prepared to enter the real world workforce as a IT professional. This began with developing the plan for the course as the course requires the student to outline a plan in line with the provided course areas and course outcomes.
 
----
-Course Areas
----
-Software Engineering and Design
----
-Algorithms and Structures
----
-Databases
----
+| Course Areas |
+| Software Engineering and Design |
+| Algorithms and Structures |
+| Databases |
 
----
-Course Outcomes
----
-1.	Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science
----
-2.	Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.
----
-3.	Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices.
----
-4.	Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
----
-5.	Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
----
+| Course Outcomes |
+| 1.	Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science |
+| 2.	Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts. |
+| 3.	Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices. |
+| 4.	Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals. |
+| 5.	Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources. |
 
 These course areas and course outcomes are suppose to be met with three enhancements to previous projects created through out the program. The student develops a plan and works with their professor to approve a plan to that fulfills this. Its a big change for many students since previous courses have the course content outlined already and the student just needs to work through the content. This capstone class is the opposite and requires the student to plan the content of the course, and then develop and document it.
 
