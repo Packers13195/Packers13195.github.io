@@ -6,7 +6,7 @@
 {% include navigationmenu.html %}
 
 # Introduction
-Hello, my name is Austin Donaubauer. I am an aspiring software engineer and am excited to share my journey with you all. 
+I’m Austin Donaubauer, a software engineering student and IT professional passionate about building reliable, user-focused solutions.
 After graduating from Watertown High School in Wisconsin, I decided to pursue an associate degree in Mobile Application Development with emphasis in Android Development at Madison Area Technical College. Growing up I was around a lot of technology whether that be a personal computer or laptop, or even video game systems like a PlayStation 2 or a game boy advanced, and this fueled my curiosity in learning about programming. I took some basic programming courses in High School and decided mobile applications would be a cool thing to learn about.
 
 I graduated in 2017 with my degree, but unfortunately, I was not able to find a position in this field. Fast forward a few years to 2019 when I accepted a position in a call center for the company Pitney Bowes. This was my first opportunity in the IT industry, and and a launching point for my career. Over the last few years, I remained at Pitney Bowes and was promoted to a tier 3 support agent. I learned a lot about customer service and how software solves problems for them as I worked with clients to resolve issues and questions. I have been able to work closely with the product analysts and software engineers who accepted escalations from me on behalf of the customer when something wasn't resolvable by me. 
